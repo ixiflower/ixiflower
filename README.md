@@ -18,10 +18,10 @@
   <table>
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=ixiflower&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FF69B4&text_color=9F9F9F" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=ixiflower&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FF8717&text_color=9F9F9F" alt="GitHub Stats" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ixiflower&theme=radical&hide_border=true&background=0D1117&fire=FF69B4&ring=FF69B4&currStreakLabel=FFFFFF" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ixiflower&theme=radical&hide_border=true&background=0D1117&fire=FF8717&ring=FF8717&currStreakLabel=FFFFFF" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
@@ -117,7 +117,7 @@
 
 <div align="center">
   <a href="https://ixiflower.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-FF8717?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://github.com/ixiflower" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -133,5 +133,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ixiflower&label=Profile%20Views&color=FF69B4&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ixiflower&label=Profile%20Views&color=FF8717&style=flat" alt="Profile Views" />
 </div>
