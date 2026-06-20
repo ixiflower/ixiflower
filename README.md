@@ -30,7 +30,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ixiflower&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=9F9F9F" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ixiflower&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=9F9F9F" alt="Top Languages" />
 </div>
 
 <br/>
