@@ -18,7 +18,7 @@
   <table>
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=ixiflower&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FF8717&text_color=9F9F9F" alt="GitHub Stats" />
+        <img src="https://github-readme-stats-bay-six-99.vercel.app/api?username=ixiflower&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FF8717&text_color=9F9F9F" alt="GitHub Stats" />
       </td>
       <td width="50%" align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=ixiflower&theme=radical&hide_border=true&background=0D1117&fire=FF8717&ring=FF8717&currStreakLabel=FFFFFF&sideNums=FF8717" alt="GitHub Streak" />
@@ -30,7 +30,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ixiflower&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=9F9F9F" alt="Top Languages" />
+  <img src="https://github-readme-stats-bay-six-99.vercel.app/api/top-langs/?username=ixiflower&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=9F9F9F" alt="Top Languages" />
 </div>
 
 <br/>
