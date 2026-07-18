@@ -5,6 +5,14 @@
 <br/>
 
 <div align="center">
+  <a href="https://ixiflower.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%8C%90_PORTFOLIO-ixiflower.vercel.app-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="Portfolio" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/ixiflower/ixiflower/output/snake.svg" alt="Snake animation" />
 </div>
 
@@ -117,7 +125,7 @@
 
 <div align="center">
   <a href="https://ixiflower.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF8717?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://github.com/ixiflower" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
