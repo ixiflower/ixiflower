@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+ixi_flower;Born+in+2007%2C+coding+since+2019;Fullstack+Developer+%26+DevOps+Engineer;Working+with+Containers%2C+Networks+%26+Cloud" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=40&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+ixi_flower;Born+in+2007%2C+coding+since+2019;Fullstack+Developer+%26+DevOps+Engineer;Working+with+Containers%2C+Networks+%26+Cloud" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -29,7 +29,7 @@
         <img src="https://github-readme-stats-bay-six-99.vercel.app/api?username=ixiflower&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FF8717&text_color=9F9F9F" alt="GitHub Stats" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ixiflower&theme=radical&hide_border=true&background=0D1117&fire=FF8717&ring=FF8717&currStreakLabel=FFFFFF&sideNums=FF8717" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com/?user=ixiflower&theme=radical&hide_border=true&background=0D1117&fire=FF8717&ring=FF8717&currStreakLabel=FFFFFF&sideNums=FF8717" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
